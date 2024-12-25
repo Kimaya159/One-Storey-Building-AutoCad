@@ -1,6 +1,6 @@
 # 3D Architectural Model in AutoCAD
 
-![Project Preview](link.jpg)
+
 
 This repository contains the files and resources for a 3D architectural model created using *AutoCAD*. The model showcases a modern residential building design with realistic structural elements.
 
@@ -44,7 +44,7 @@ This repository contains the files and resources for a 3D architectural model cr
 [Front View](https://github.com/Kimaya159/One-Storey-Building-AutoCad/commit/89d5f4ce6c2ac7db6a64467e4da2e013fcf7e451)
 
 ### Isometric View
-[Isometric View](link-to-your-isometric-view.jpg)
+[Isometric View](https://github.com/Kimaya159/One-Storey-Building-AutoCad/blob/main/Isometric%20View%202.jpg)
 
 ## Contributions
 
