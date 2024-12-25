@@ -41,10 +41,10 @@ This repository contains the files and resources for a 3D architectural model cr
 ## Screenshots
 
 ### Front View
-![Front View](link-to-your-front-view.jpg)
+[Front View](https://github.com/Kimaya159/One-Storey-Building-AutoCad/commit/89d5f4ce6c2ac7db6a64467e4da2e013fcf7e451)
 
 ### Isometric View
-![Isometric View](link-to-your-isometric-view.jpg)
+[Isometric View](link-to-your-isometric-view.jpg)
 
 ## Contributions
 
